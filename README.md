@@ -1,4 +1,4 @@
-# first_flutter
+# Dart Flutter BMI Project
 
 A new Flutter project.
 
